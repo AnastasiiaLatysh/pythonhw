@@ -12,5 +12,5 @@ matrix = [[1, 2, 3],
 print_matrix(matrix)
 print()
 
-matrix = diaginal_reverse(matrix)
+matrix = diagonal_reverse(matrix)
 print_matrix(matrix)
