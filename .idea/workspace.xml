@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/basics/hw1.md" description="1. Define a function, that takes string as argumen..." line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd22e396-6c2f-446e-a9b7-3476ae344e90" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basics/hw1/task3.py" afterPath="$PROJECT_DIR$/basics/hw1/task3.py" />
-    </list>
+    <list default="true" id="cd22e396-6c2f-446e-a9b7-3476ae344e90" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="hw1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basics/hw1.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -40,12 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basics/hw1/task4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basics/hw1/task5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#253#275#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +104,7 @@
         <option value="$PROJECT_DIR$/basics/hw1/task2.py" />
         <option value="$PROJECT_DIR$/basics/hw1/task3.py" />
         <option value="$PROJECT_DIR$/basics/hw1/task4.py" />
+        <option value="$PROJECT_DIR$/basics/hw1/task5.py" />
       </list>
     </option>
   </component>
@@ -176,7 +187,7 @@
       <recent name="$PROJECT_DIR$/basics/hw1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task4">
+  <component name="RunManager" selected="Python.task5">
     <configuration default="false" name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,6 +252,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonhw" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/hw1/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/hw1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonhw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/hw1/task5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -379,18 +407,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.task1" />
       <item index="1" class="java.lang.String" itemvalue="Python.task2" />
       <item index="2" class="java.lang.String" itemvalue="Python.task3" />
       <item index="3" class="java.lang.String" itemvalue="Python.task4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.task5" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.task4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.task3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.task2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.task1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.task5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.task4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.task3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.task2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -462,18 +492,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basics/hw1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basics/hw1/task3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/hw1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -483,6 +513,16 @@
         <state relative-caret-position="105">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/hw1/task5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#253#275#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
