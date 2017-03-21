@@ -6,3 +6,11 @@ def sum(list) :
 list = [1, 2, 3, 4, 5, 6]
 print( sum(list) )
 
+
+
+def multiply(list) :
+    mult = 1
+    for i in list : mult *= i
+    return mult
+
+print( multiply(list) )
