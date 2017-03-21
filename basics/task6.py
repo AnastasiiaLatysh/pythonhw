@@ -12,7 +12,7 @@ def caesar_cipher(plainText, shift):
 
 
 
-str = 'Our string'
+str = 'ABCde'
 print("Before caesar_cipher function: ", str)
 intNumber = 1
 print("After caesar_sipher function: ", caesar_cipher(str, intNumber))
