@@ -1,6 +1,7 @@
 import random
 
 def game(A, B) :
+    '''Try to guess a random number from the range [A, B]'''
     random_number = random.randint(A, B)
     print(random_number)
 
